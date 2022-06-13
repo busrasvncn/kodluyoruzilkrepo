@@ -9,7 +9,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-<div> kodluyoruzilkrepo <b>
+<div> kodluyoruzilkrepo <br>
 code .
 </div>
 
